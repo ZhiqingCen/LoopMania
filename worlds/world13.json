@@ -1,0 +1,24 @@
+{
+    "width": 8,
+    "height": 8,
+    "rare_items": [],
+    "goal-condition": {
+      "goal": "OR", 
+      "subgoals": [
+        {"goal": "gold", "quantity": 700}, 
+        {"goal": "experience", "quantity": 350}, 
+        {"goal": "cycles", "quantity": 7}]},
+    "entities": [
+      {"x": 1, "y": 1, "type": "hero_castle"}
+    ],
+    "path": {
+      "type": "path_tile",
+      "x": 1, "y": 1,
+      "path": [
+        "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT",
+        "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", 
+        "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", 
+        "UP", "UP", "UP", "UP", "UP"
+      ]
+    }
+  }
