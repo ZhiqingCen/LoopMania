@@ -1,5 +1,5 @@
 # LoopMania
-Loop Mania is a game inplemented using Java and Javafx, details can be find in the specification
+Loop Mania is a game inplemented using Java and Javafx, details can be find in the [specification](specification/README.md)
 
 project in course COMP2511 Object-Oriented Design & Programming 2021 Term2
 
