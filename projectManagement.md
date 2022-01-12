@@ -5,7 +5,7 @@
 
 ## Backend
 
-### Mian Yu (Z5212781)
+### Mian Yu
 | TimeLine(week) | Story Point| Task |
 |:----------- |:----- |:------|
 |4,5||Card and Building design & requirement analysis|
@@ -20,7 +20,7 @@
 |7|2|Tower|
 |6,7||Testing|
 
-### Ruiqi Xie (Z5141973)
+### Ruiqi Xie
 | TimeLine(week)  | Story Point| Task |
 |:----------- |:----- |:------|
 |4,5||Character and enemies design & requirement analysis|
@@ -33,7 +33,7 @@
 |6,7||Testing|
 
 
-### Xu Gao (Z5295633)
+### Xu Gao
 | TimeLine(week)  | Story Point| Task |
 |:----------- |:----- |:------|
 |4,5||Equipment design & requirement analysis|
@@ -49,7 +49,7 @@
 |6,7||Testing|
 
 
-### Zhaocheng Li (Z5212992)
+### Zhaocheng Li
 | TimeLine(week)  | Story Point| Task |
 |:----------- |:----- |:------|
 |4,5||Human interaction & UI design & requirement analysis|
@@ -61,7 +61,7 @@
 |6,7||Testing|
 
 
-### Zhiqing Cen (Z5212886)
+### Zhiqing Cen
 | TimeLine(week)  | Story Point| Task |
 |:----------- |:----- |:------|
 |4,5||Mode and Goal design & requirement analysis|
@@ -89,7 +89,7 @@
 
 # milestone 3
 
-### Mian Yu (Z5212781)
+### Mian Yu
 | TimeLine(week) | Story Point(hour)| Task |
 |:----------- |:----- |:------|
 |9|3|test & backend: add feature when card equip|
@@ -97,7 +97,7 @@
 |10|4|frontend: show if card can be place on tile|
 |10|3|test & backend & frontend: super tower(extension item)|
 
-### Ruiqi Xie (Z5141973)
+### Ruiqi Xie
 | TimeLine(week)  | Story Point(hour)| Task |
 |:----------- |:----- |:------|
 |9|1|Equipment design & requirement analysis|
@@ -107,7 +107,7 @@
 |10|2|frontend: randomly spawn equipments|
 
 
-### Xu Gao (Z5295633)
+### Xu Gao
 | TimeLine(week)  | Story Point(hour)| Task |
 |:----------- |:----- |:------|
 |9|1|Equipment design & requirement analysis|
@@ -117,7 +117,7 @@
 |10|4|frontend: equip equipments correctly|
 
 
-### Zhaocheng Li (Z5212992)
+### Zhaocheng Li
 | TimeLine(week)  | Story Point(hour)| Task |
 |:----------- |:----- |:------|
 |9|1|Equipment design & requirement analysis|
@@ -125,7 +125,7 @@
 |10|3|test & backend & frontend: transport(extension item)|
 |10|3|test & backend & frontend: super tower(extension item)|
 
-### Zhiqing Cen (Z5212886)
+### Zhiqing Cen
 | TimeLine(week)  | Story Point(hour)| Task |
 |:----------- |:----- |:------|
 |9|1|Equipment design & requirement analysis|
@@ -137,4 +137,3 @@
 |10|2|test & backend & frontend: doggie coin sell in shop|
 |10|4|test & backend & frontend: new mode|
 |10|6|test: backend & frontend tests, find possible bugs before most merge request|
-
