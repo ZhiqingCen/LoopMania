@@ -7,4 +7,6 @@ project in course COMP2511 Object-Oriented Design & Programming 2021 Term2
 |:---------:|:-----:|
 |1|92/100|
 |2|97/100|
-|3|/100|
+|3|92/100|
+
+[file to run the game](src/unsw/loopmania/LoopManiaApplication.java)
